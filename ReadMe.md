@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Junior College<br>👯 I’m looking to collaborate on Apps, Videogames.<br>🤝 I’m looking for help with learning python.<br>🌱 I’m currently learning PowerApps, CSS, Excel, Html5, PowerPoint.<br>💬 Ask me about Html5, Excel, Html5, PowerApps.<br>⚡ Fun fact I like playing videogame.<br>😊
+🔭 I’m currently studying on Junior College<br>👯 I’m looking to collaborate on Apps, Videogames.<br>🤝 I’m looking for help with learning python.<br>🌱 I’m currently learning PowerApps, CSS, Excel, Html5, PowerPoint.<br>💬 Ask me about Html5, Excel, Html5, PowerApps.<br>⚡ Fun fact I like playing videogame.<br>😊
 
 
 # 💻 Tech Stack:
